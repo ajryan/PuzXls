@@ -1,0 +1,21 @@
+﻿{
+  "name": "PuzXls",
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "debugType": "portable",
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "ClosedXML": "0.80.1"
+  },
+  "frameworks": {
+    "net452": {
+      "frameworkAssemblies": {
+        "System.Data": "4.0.0.0"
+      }
+    }
+  },
+  "runtimes": {
+    "win": {}
+  }
+}
